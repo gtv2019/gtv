@@ -1,0 +1,515 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="izzi afizzionados" tvg-logo="" group-title="Deportes (TV)",izzi afizzionados
+http://gangatvbox.com:25461/live/g2140/123/12625.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport ñ (Deportes)-" tvg-logo="" group-title="Deportes (TV)",Bein Sport ñ (Deportes)-
+http://gangatvbox.com:25461/live/g2140/123/12424.ts
+
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="Estrellas TV (Latinos us)" tvg-logo="" group-title="Latinos usa (TV)",Estrellas TV (Latinos us)
+http://gangatvbox.com:25461/live/g2140/123/12352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega tv (Puerto Rico)" tvg-logo="" group-title="Puerto Rico (Tv)",Mega tv (Puerto Rico)
+http://gangatvbox.com:25461/live/g2140/123/12351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo (Puerto Rico)" tvg-logo="" group-title="Puerto Rico (Tv)",Telemundo (Puerto Rico)
+http://gangatvbox.com:25461/live/g2140/123/12348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision (Puerto Rico)" tvg-logo="" group-title="Puerto Rico (Tv)",Univision (Puerto Rico)
+http://gangatvbox.com:25461/live/g2140/123/12347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wapa 2  (Puerto Rico)" tvg-logo="" group-title="Puerto Rico (Tv)",Wapa 2  (Puerto Rico)
+http://gangatvbox.com:25461/live/g2140/123/12350.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wapa (Puerto Rico)" tvg-logo="" group-title="Puerto Rico (Tv)",Wapa (Puerto Rico)
+http://gangatvbox.com:25461/live/g2140/123/12349.ts
+
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="Telenovelas" tvg-logo="" group-title="Latinos usa (TV)",Telenovelas
+http://gangatvbox.com:25461/live/g2140/123/4978.ts
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBOLATINO_1" tvg-logo="" group-title="Latinos usa (TV)",HBOLATINO_1
+http://gangatvbox.com:25461/live/g2140/123/5010.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Joven Sheldon" tvg-logo="" group-title="24/7  (TV)",El Joven Sheldon
+http://gangatvbox.com:25461/live/g2140/123/5115.ts
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Canal de las Estrellas (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Canal de las Estrellas (mx)
+http://gangatvbox.com:25461/live/g2140/123/5103.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="Canal 5 (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Canal 5 (mx)
+http://gangatvbox.com:25461/live/g2140/123/5118.ts
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="GalaTV (mx)" tvg-logo="" group-title="Mexico Locales (TV)",GalaTV (mx)
+http://gangatvbox.com:25461/live/g2140/123/4989.ts
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="Azteca 13 (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Azteca 13 (mx)
+http://gangatvbox.com:25461/live/g2140/123/2.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7 (Mx)" tvg-logo="" group-title="Mexico Locales (TV)",Azteca 7 (Mx)
+http://gangatvbox.com:25461/live/g2140/123/5119.ts
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="Az Mundo (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Az Mundo (mx)
+http://gangatvbox.com:25461/live/g2140/123/5105.ts
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="Az Corazón (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Az Corazón (mx)
+http://gangatvbox.com:25461/live/g2140/123/5106.ts
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="De Película (mx)" tvg-logo="" group-title="Mexico Locales (TV)",De Película (mx)
+http://gangatvbox.com:25461/live/g2140/123/5092.ts
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="Multimedios (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Multimedios (mx)
+http://gangatvbox.com:25461/live/g2140/123/5120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Imagen tv (mx)" tvg-logo="" group-title="Mexico Locales (TV)",Imagen tv (mx)
+http://gangatvbox.com:25461/live/g2140/123/5117.ts
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="BOOMERANG (Infantil)" tvg-logo="" group-title="Infantiles (TV)",BOOMERANG (Infantil)
+http://gangatvbox.com:25461/live/g2140/123/8116.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK (Infantil)" tvg-logo="" group-title="Infantiles (TV)",CARTOON NETWORK (Infantil)
+http://gangatvbox.com:25461/live/g2140/123/8117.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS (Infantil)" tvg-logo="" group-title="Infantiles (TV)",DISCOVERY KIDS (Infantil)
+http://gangatvbox.com:25461/live/g2140/123/8118.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Disney Channel (infantil)" tvg-logo="" group-title="Infantiles (TV)",Disney Channel (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8119.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="DISNEY JR (Infantil)" tvg-logo="" group-title="Infantiles (TV)",DISNEY JR (Infantil)
+http://gangatvbox.com:25461/live/g2140/123/8120.ts
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="DISNEY XD (infantil)" tvg-logo="" group-title="Infantiles (TV)",DISNEY XD (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Finalizo" tvg-logo="" group-title="24/7  (TV)",Finalizo
+http://gangatvbox.com:25461/live/g2140/123/5126.ts
+#EXTINF:-1 tvg-id="" tvg-name="mas tarde" tvg-logo="" group-title="24/7  (TV)",mas tarde
+http://gangatvbox.com:25461/live/g2140/123/5125.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS (infantil)" tvg-logo="" group-title="Infantiles (TV)",NATGEO KIDS (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8122.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 (infantil)" tvg-logo="" group-title="Infantiles (TV)",NICK 2 (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8123.ts
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="Nick JR (infantil)" tvg-logo="" group-title="Infantiles (TV)",Nick JR (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8124.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NICKELODEON (infantil)" tvg-logo="" group-title="Infantiles (TV)",NICKELODEON (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8125.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST (infantil)" tvg-logo="" group-title="Infantiles (TV)",TOONCAST (infantil)
+http://gangatvbox.com:25461/live/g2140/123/8126.ts
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports (Deportes)" tvg-logo="" group-title="Deportes (TV)",AyM Sports (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports (Deportes)" tvg-logo="" group-title="Deportes (TV)",Bein Sports (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro sport (Deportes)" tvg-logo="" group-title="Deportes (TV)",Claro sport (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8819.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports (Deportes)" tvg-logo="" group-title="Deportes (TV)",DirectTV Sports (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8820.ts
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="ESPN (Deportes)" tvg-logo="" group-title="Deportes (TV)",ESPN (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8821.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 (Deportes)" tvg-logo="" group-title="Deportes (TV)",ESPN 2 (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8823.ts
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="Espn Plus (Deportes)" tvg-logo="" group-title="Deportes (TV)",Espn Plus (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8822.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox sports (Deportes)" tvg-logo="" group-title="Deportes (TV)",Fox sports (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8826.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2 (Deportes)" tvg-logo="" group-title="Deportes (TV)",Fox Sports 2 (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8827.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="Fox Sports 3 (Deportes)" tvg-logo="" group-title="Deportes (TV)",Fox Sports 3 (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (Deportes)" tvg-logo="" group-title="Deportes (TV)",Fox Sports Premium (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8829.ts
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="Gol Tv (Deportes)" tvg-logo="" group-title="Deportes (TV)",Gol Tv (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes (Deportes)" tvg-logo="" group-title="Deportes (TV)",Movistar Deportes (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV (Deportes)" tvg-logo="" group-title="Deportes (TV)",Real Madrid TV (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8832.ts
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="TDN (Deportes)" tvg-logo="" group-title="Deportes (TV)",TDN (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8833.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (Deportes)" tvg-logo="" group-title="Deportes (TV)",TNT Sports (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8834.ts
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="UFC Network (HD) OP2" tvg-logo="" group-title="Deportes (TV)",UFC Network (HD) OP2
+http://gangatvbox.com:25461/live/g2140/123/12667.ts
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="UFC Network (Deportes)" tvg-logo="" group-title="Deportes (TV)",UFC Network (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8835.ts
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="Univision Deportes (Deportes)" tvg-logo="" group-title="Deportes (TV)",Univision Deportes (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8836.ts
+#EXTINF:-1 tvg-id="" tvg-name="WINS PORTS (Deportes)" tvg-logo="" group-title="Deportes (TV)",WINS PORTS (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/8837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Surviving The Wild" tvg-logo="http://gangatvbox.com:25461/images/dmFElZPuqbHcxkOCuLcQSWQbAVV_small.jpg" group-title="(Pelis) Estrenos",Surviving The Wild
+http://gangatvbox.com:25461/movie/g2140/123/11513.mp4
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="Animal Planet (Cultura)" tvg-logo="" group-title="Cultura (TV)",Animal Planet (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11582.ts
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Discovery Channel (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery Channel (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery Civilization (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11584.ts
+#EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-name="Discovery Home Health (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery Home Health (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery SCI (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery SCI (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11586.ts
+#EXTINF:-1 tvg-id="discoverytheater.mx" tvg-name="Discovery Theater (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery Theater (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery Turbo (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11588.ts
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="Discovery World (Cultura)" tvg-logo="" group-title="Cultura (TV)",Discovery World (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11589.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="H2 (Cultura)" tvg-logo="" group-title="Cultura (TV)",H2 (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11590.ts
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="History Channel (Cultura)" tvg-logo="" group-title="Cultura (TV)",History Channel (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11591.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Investigation Discovery (Cultura)" tvg-logo="" group-title="Cultura (TV)",Investigation Discovery (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11592.ts
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="Nat Geo (Cultura)" tvg-logo="" group-title="Cultura (TV)",Nat Geo (Cultura)
+http://gangatvbox.com:25461/live/g2140/123/11593.ts
+#EXTINF:-1 tvg-id="aande.mx" tvg-name="A&E (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",A&E (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11594.ts
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",AMC (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11595.ts
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",AXN (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11596.ts
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central (Entretenimiento))" tvg-logo="" group-title="Entretenimiento (TV)",Comedy Central (Entretenimiento))
+http://gangatvbox.com:25461/live/g2140/123/11597.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="Distrito Comedia (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Distrito Comedia (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11598.ts
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",E! (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11599.ts
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="El Gourmet (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",El Gourmet (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11600.ts
+#EXTINF:-1 tvg-id="foxinternational.mx" tvg-name="Fox (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Fox (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11601.ts
+#EXTINF:-1 tvg-id="fox1.mx" tvg-name="Fox 1 (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Fox 1 (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11602.ts
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="Fox Life (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Fox Life (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11603.ts
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",FX (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Hola TV (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11605.ts
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="Lifetime (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Lifetime (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11606.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="Sony HD (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Sony HD (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11607.ts
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="TBS Very Funny (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",TBS Very Funny (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11608.ts
+#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="Telemundo (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Telemundo (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11609.ts
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="TLC (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",TLC (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11610.ts
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT Series (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",TNT Series (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11612.ts
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="Tru TV (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Tru TV (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11613.ts
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="Unicable (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Unicable (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11614.ts
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="Warner Channel (Entretenimiento)" tvg-logo="" group-title="Entretenimiento (TV)",Warner Channel (Entretenimiento)
+http://gangatvbox.com:25461/live/g2140/123/11615.ts
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="Cine canal (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Cine canal (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11816.ts
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="Cine max (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Cine max (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11817.ts
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="De Pelicula (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",De Pelicula (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Zone (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Film Zone (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11819.ts
+#EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Fox Action (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11820.ts
+#EXTINF:-1 tvg-id="foxclassics.mx" tvg-name="Fox Classics (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Fox Classics (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11821.ts
+#EXTINF:-1 tvg-id="foxfamily.mx" tvg-name="Fox Family (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Fox Family (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11823.ts
+#EXTINF:-1 tvg-id="foxmovies.mx" tvg-name="Fox Movies (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Fox Movies (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11824.ts
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Golden (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11825.ts
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Golden Edge (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11826.ts
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="Hbo (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Hbo (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11828.ts
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="Hbo 2  (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Hbo 2  (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11829.ts
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",HBO Family (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11830.ts
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO Plus (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",HBO Plus (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11831.ts
+#EXTINF:-1 tvg-id="isat.mx" tvg-name="I Sat (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",I Sat (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11832.ts
+#EXTINF:-1 tvg-id="maxup.mx" tvg-name="Max Up (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Max Up (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11833.ts
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="Paramount (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Paramount (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11834.ts
+#EXTINF:-1 tvg-id="space.mx" tvg-name="Space (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Space (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11835.ts
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Studio Universal (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11836.ts
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="TCM (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",TCM (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11837.ts
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",TNT (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11838.ts
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="Bandamax (Musica)" tvg-logo="" group-title="musica (TV)",Bandamax (Musica)
+http://gangatvbox.com:25461/live/g2140/123/12070.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV (Musica)" tvg-logo="" group-title="musica (TV)",MTV (Musica)
+http://gangatvbox.com:25461/live/g2140/123/12072.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV Live (Musica)" tvg-logo="" group-title="musica (TV)",MTV Live (Musica)
+http://gangatvbox.com:25461/live/g2140/123/12074.ts
+#EXTINF:-1 tvg-id="ritmoson.mx" tvg-name="Ritmoson Latino (Musica)" tvg-logo="" group-title="musica (TV)",Ritmoson Latino (Musica)
+http://gangatvbox.com:25461/live/g2140/123/12077.ts
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="Telehit (Musica)" tvg-logo="" group-title="musica (TV)",Telehit (Musica)
+http://gangatvbox.com:25461/live/g2140/123/12078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Video Ayudar" tvg-logo="" group-title="HD Canales Premium (TV)",Video Ayudar
+http://gangatvbox.com:25461/live/g2140/123/12117.ts
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="NBC UNIVERSO" tvg-logo="" group-title="HD Canales Premium (TV)",NBC UNIVERSO
+http://gangatvbox.com:25461/live/g2140/123/12409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Video Como Ayudar A Seguir Dando Servicio Gratis" tvg-logo="http://rqgratis.com/ayuda.jpg" group-title="(Pelis) Ayudarnos Video Importante",Video Como Ayudar A Seguir Dando Servicio Gratis
+http://gangatvbox.com:25461/movie/g2140/123/12136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caracol (Colombia)" tvg-logo="" group-title="Otros (TV)",Caracol (Colombia)
+http://gangatvbox.com:25461/live/g2140/123/12311.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN (colombia)" tvg-logo="" group-title="Otros (TV)",RCN (colombia)
+http://gangatvbox.com:25461/live/g2140/123/12309.ts
+#EXTINF:-1 tvg-id="cablenewsnetwork.mx" tvg-name="CNN en Español(Noticias)" tvg-logo="" group-title="Noticias (TV)",CNN en Español(Noticias)
+http://gangatvbox.com:25461/live/g2140/123/12209.ts
+#EXTINF:-1 tvg-id="" tvg-name="13 tv (España)" tvg-logo="" group-title="Otros (TV)",13 tv (España)
+http://gangatvbox.com:25461/live/g2140/123/12314.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E (US HD)" tvg-logo="" group-title="USA CANALES",A&E (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12460.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC (US HD)" tvg-logo="" group-title="USA CANALES",ABC (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12459.ts
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC (US HD)" tvg-logo="" group-title="USA CANALES",AMC (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12458.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC (US HD)" tvg-logo="" group-title="USA CANALES",BBC (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS (US HD)" tvg-logo="" group-title="USA CANALES",CBS (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (US HD)" tvg-logo="" group-title="USA CANALES",Discovery Channel (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12453.ts
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy (US HD)" tvg-logo="" group-title="USA CANALES",HBO Comedy (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12449.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO EAST (US HD)" tvg-logo="" group-title="USA CANALES",HBO EAST (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12448.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family (US HD)" tvg-logo="" group-title="USA CANALES",HBO Family (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12447.ts
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="History Channel (US HD)" tvg-logo="" group-title="USA CANALES",History Channel (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12446.ts
+#EXTINF:-1 tvg-id="" tvg-name="IFC (US HD)" tvg-logo="" group-title="USA CANALES",IFC (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12445.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT (US HD)" tvg-logo="" group-title="USA CANALES",TNT (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12442.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK (US HD)" tvg-logo="" group-title="USA CANALES",USA NETWORK (US HD)
+http://gangatvbox.com:25461/live/g2140/123/12441.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 226: Miocic Vs  Cormier" tvg-logo="http://gangatvbox.com:25461/images/v5Hu9rvmhfcg0cDOQj9zPbQ2BRk_small.jpg" group-title="UFC PPVS",UFC 226: Miocic Vs  Cormier
+http://gangatvbox.com:25461/movie/g2140/123/12543.mp4
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Carton Network (Catch up)" tvg-logo="" group-title="Con Grabacion",Carton Network (Catch up)
+http://gangatvbox.com:25461/live/g2140/123/12557.ts
+#EXTINF:-1 tvg-id="aande.mx" tvg-name="A&E (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",A&E (HD)
+http://gangatvbox.com:25461/live/g2140/123/12088.ts
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",AMC (HD)
+http://gangatvbox.com:25461/live/g2140/123/12089.ts
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",AXN (HD)
+http://gangatvbox.com:25461/live/g2140/123/12090.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",AZ MUNDO (HD)
+http://gangatvbox.com:25461/live/g2140/123/12457.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="AZTECA 7 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",AZTECA 7 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12134.ts
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="Baby tv (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Baby tv (HD)
+http://gangatvbox.com:25461/live/g2140/123/12456.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Bandamax (HD)
+http://gangatvbox.com:25461/live/g2140/123/12419.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport ñ (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Bein Sport ñ (HD)
+http://gangatvbox.com:25461/live/g2140/123/12116.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sport ñ (USA HD)" tvg-logo="" group-title="Deportes (TV)",Bein Sport ñ (USA HD)
+http://gangatvbox.com:25461/live/g2140/123/12583.ts
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="BOOMERANG (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",BOOMERANG (HD)
+http://gangatvbox.com:25461/live/g2140/123/12130.ts
+#EXTINF:-1 tvg-id="" tvg-name="box Nation (HD)" tvg-logo="" group-title="Deportes (TV)",box Nation (HD)
+http://gangatvbox.com:25461/live/g2140/123/12584.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="Canal 5 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Canal 5 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12394.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Carton Network (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Carton Network (HD)
+http://gangatvbox.com:25461/live/g2140/123/12129.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF Premium" tvg-logo="" group-title="Deportes (TV)",CDF Premium
+http://gangatvbox.com:25461/live/g2140/123/12573.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDN Sportmax (Deportes)" tvg-logo="" group-title="Deportes (TV)",CDN Sportmax (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/12574.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDO Premium (Deportes)" tvg-logo="" group-title="Deportes (TV)",CDO Premium (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/12575.ts
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="Cine canal (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Cine canal (HD)
+http://gangatvbox.com:25461/live/g2140/123/12098.ts
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Comedy Central (HD)
+http://gangatvbox.com:25461/live/g2140/123/12091.ts
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="DE PELICULA (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",DE PELICULA (HD)
+http://gangatvbox.com:25461/live/g2140/123/12099.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports 2 (Deportes)" tvg-logo="" group-title="Deportes (TV)",DirectTV Sports 2 (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/12576.ts
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Discovery Channel (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery Channel (HD)
+http://gangatvbox.com:25461/live/g2140/123/12084.ts
+#EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-name="Discovery H&H (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery H&H (HD)
+http://gangatvbox.com:25461/live/g2140/123/12085.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery ID (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery ID (HD)
+http://gangatvbox.com:25461/live/g2140/123/12400.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Discovery Kids (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery Kids (HD)
+http://gangatvbox.com:25461/live/g2140/123/12131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery Sciense (HD)
+http://gangatvbox.com:25461/live/g2140/123/12413.ts
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="Discovery TLC (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery TLC (HD)
+http://gangatvbox.com:25461/live/g2140/123/12408.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery Turbo (HD)
+http://gangatvbox.com:25461/live/g2140/123/12086.ts
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="Discovery World (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Discovery World (HD)
+http://gangatvbox.com:25461/live/g2140/123/12412.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="DISNEY CHANNEL (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",DISNEY CHANNEL (HD)
+http://gangatvbox.com:25461/live/g2140/123/12132.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Disney Jr (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Disney Jr (HD)
+http://gangatvbox.com:25461/live/g2140/123/12395.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="Distrito Comedia (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Distrito Comedia (HD)
+http://gangatvbox.com:25461/live/g2140/123/12397.ts
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",E! (HD)
+http://gangatvbox.com:25461/live/g2140/123/12452.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN  2 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",ESPN  2 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12118.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN  3 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",ESPN  3 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12119.ts
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="ESPN (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",ESPN (HD)
+http://gangatvbox.com:25461/live/g2140/123/12137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas -2 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Estrellas -2 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12451.ts
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Estrellas (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Estrellas (HD)
+http://gangatvbox.com:25461/live/g2140/123/12083.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV" tvg-logo="" group-title="Deportes (TV)",F1 TV
+http://gangatvbox.com:25461/live/g2140/123/12577.ts
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="Foro tv (HD)" tvg-logo="" group-title="Noticias (TV)",Foro tv (HD)
+http://gangatvbox.com:25461/live/g2140/123/12353.ts
+#EXTINF:-1 tvg-id="foxinternational.mx" tvg-name="FOX (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",FOX (HD)
+http://gangatvbox.com:25461/live/g2140/123/12092.ts
+#EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Fox Action (HD)
+http://gangatvbox.com:25461/live/g2140/123/12100.ts
+#EXTINF:-1 tvg-id="foxclassics.mx" tvg-name="Fox Classics (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Fox Classics (HD)
+http://gangatvbox.com:25461/live/g2140/123/12101.ts
+#EXTINF:-1 tvg-id="foxcomedy.mx" tvg-name="FOX COMEDY (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",FOX COMEDY (HD)
+http://gangatvbox.com:25461/live/g2140/123/12102.ts
+#EXTINF:-1 tvg-id="foxfamily.mx" tvg-name="Fox Family (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Fox Family (HD)
+http://gangatvbox.com:25461/live/g2140/123/12103.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Fox Sports (HD)
+http://gangatvbox.com:25461/live/g2140/123/12120.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Fox Sports 2 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12121.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="Fox Sports 3 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Fox Sports 3 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12122.ts
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",FX (HD)
+http://gangatvbox.com:25461/live/g2140/123/12093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Tv (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Gol Tv (HD)
+http://gangatvbox.com:25461/live/g2140/123/12123.ts
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="Golden (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Golden (HD)
+http://gangatvbox.com:25461/live/g2140/123/12104.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="H2 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",H2 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12450.ts
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",HBO (HD)
+http://gangatvbox.com:25461/live/g2140/123/12106.ts
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",HBO 2 (HD)
+http://gangatvbox.com:25461/live/g2140/123/12390.ts
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",HBO Family (HD)
+http://gangatvbox.com:25461/live/g2140/123/12107.ts
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",HBO PLUS (HD)
+http://gangatvbox.com:25461/live/g2140/123/12391.ts
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",HBO SIGNATURE (HD)
+http://gangatvbox.com:25461/live/g2140/123/12392.ts
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="History Channel (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",History Channel (HD)
+http://gangatvbox.com:25461/live/g2140/123/12087.ts
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",IMAGEN TV (HD)
+http://gangatvbox.com:25461/live/g2140/123/12133.ts
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="Lifetime (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Lifetime (HD)
+http://gangatvbox.com:25461/live/g2140/123/12094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mas chic" tvg-logo="" group-title="Entretenimiento (TV)",Mas chic
+http://gangatvbox.com:25461/live/g2140/123/12579.ts
+#EXTINF:-1 tvg-id="maxprime.mx" tvg-name="Max Prime (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Max Prime (HD)
+http://gangatvbox.com:25461/live/g2140/123/12396.ts
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="Milenio Noticias (HD)" tvg-logo="" group-title="Noticias (TV)",Milenio Noticias (HD)
+http://gangatvbox.com:25461/live/g2140/123/12354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="" group-title="Deportes (TV)",Movistar Deportes 2
+http://gangatvbox.com:25461/live/g2140/123/12580.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 (Deportes)" tvg-logo="" group-title="Deportes (TV)",Movistar F1 (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/12578.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",MTV (HD)
+http://gangatvbox.com:25461/live/g2140/123/12444.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="Mtv Hits (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Mtv Hits (HD)
+http://gangatvbox.com:25461/live/g2140/123/12443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multi Premier" tvg-logo="" group-title="Peliculas (TV)",Multi Premier
+http://gangatvbox.com:25461/live/g2140/123/12581.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Nat Geo Kids (HD)
+http://gangatvbox.com:25461/live/g2140/123/12414.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Mundo (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Nat Geo Mundo (HD)
+http://gangatvbox.com:25461/live/g2140/123/12416.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",NFL Network (HD)
+http://gangatvbox.com:25461/live/g2140/123/12421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ritmoson Latino (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Ritmoson Latino (HD)
+http://gangatvbox.com:25461/live/g2140/123/12418.ts
+#EXTINF:-1 tvg-id="space.mx" tvg-name="Space (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Space (HD)
+http://gangatvbox.com:25461/live/g2140/123/12110.ts
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Studio Universal (HD)
+http://gangatvbox.com:25461/live/g2140/123/12111.ts
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="SYFY (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",SYFY (HD)
+http://gangatvbox.com:25461/live/g2140/123/12393.ts
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="TCM (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",TCM (HD)
+http://gangatvbox.com:25461/live/g2140/123/12112.ts
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="TDN (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",TDN (HD)
+http://gangatvbox.com:25461/live/g2140/123/12124.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",TELEHIT (HD)
+http://gangatvbox.com:25461/live/g2140/123/12417.ts
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Telemundo (HD)
+http://gangatvbox.com:25461/live/g2140/123/12410.ts
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",TNT (HD)
+http://gangatvbox.com:25461/live/g2140/123/12113.ts
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="Tnt Series (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Tnt Series (HD)
+http://gangatvbox.com:25461/live/g2140/123/12114.ts
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="Tru Tv (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Tru Tv (HD)
+http://gangatvbox.com:25461/live/g2140/123/12095.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",TVC Deportes (HD)
+http://gangatvbox.com:25461/live/g2140/123/12125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tyc Sports (Deportes)" tvg-logo="" group-title="Deportes (TV)",Tyc Sports (Deportes)
+http://gangatvbox.com:25461/live/g2140/123/12582.ts
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="UFC Network (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",UFC Network (HD)
+http://gangatvbox.com:25461/live/g2140/123/12127.ts
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="Unicable (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Unicable (HD)
+http://gangatvbox.com:25461/live/g2140/123/12096.ts
+#EXTINF:-1 tvg-id="unimas.us" tvg-name="Unimas (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Unimas (HD)
+http://gangatvbox.com:25461/live/g2140/123/12415.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",UNIVERSAL (HD)
+http://gangatvbox.com:25461/live/g2140/123/12115.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="Universal HD (Peliculas)" tvg-logo="" group-title="Peliculas (TV)",Universal HD (Peliculas)
+http://gangatvbox.com:25461/live/g2140/123/11839.ts
+#EXTINF:-1 tvg-id="univision.us" tvg-name="UNIVISION (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",UNIVISION (HD)
+http://gangatvbox.com:25461/live/g2140/123/12128.ts
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="Univision Deportes (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Univision Deportes (HD)
+http://gangatvbox.com:25461/live/g2140/123/12126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision TLnovelas (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Univision TLnovelas (HD)
+http://gangatvbox.com:25461/live/g2140/123/12420.ts
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="Warner Channel (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",Warner Channel (HD)
+http://gangatvbox.com:25461/live/g2140/123/12097.ts
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network (HD)" tvg-logo="" group-title="HD Canales Premium (TV)",WWE Network (HD)
+http://gangatvbox.com:25461/live/g2140/123/12422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur" tvg-logo="" group-title="Deportes (TV)",Fox Sports Sur
+http://gangatvbox.com:25461/live/g2140/123/12585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur 3" tvg-logo="" group-title="Deportes (TV)",Fox Sports Sur 3
+http://gangatvbox.com:25461/live/g2140/123/12587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox SportsSur 2" tvg-logo="" group-title="Deportes (TV)",Fox SportsSur 2
+http://gangatvbox.com:25461/live/g2140/123/12586.ts
+#EXTINF:-1 tvg-id="mlbextrainnings720.us" tvg-name="MLB INNING 720" tvg-logo="" group-title="Deportes (TV)",MLB INNING 720
+http://gangatvbox.com:25461/live/g2140/123/12622.ts
+#EXTINF:-1 tvg-id="mlbextrainnings721.us" tvg-name="MLB INNING 721" tvg-logo="" group-title="Deportes (TV)",MLB INNING 721
+http://gangatvbox.com:25461/live/g2140/123/12623.ts
+#EXTINF:-1 tvg-id="mlbextrainnings722.us" tvg-name="MLB INNING 722" tvg-logo="" group-title="Deportes (TV)",MLB INNING 722
+http://gangatvbox.com:25461/live/g2140/123/12624.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="" group-title="Deportes (TV)",MLB Network
+http://gangatvbox.com:25461/live/g2140/123/12621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Toons" tvg-logo="" group-title="Infantiles (TV)",Nick Toons
+http://gangatvbox.com:25461/live/g2140/123/12588.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT Sport EC" tvg-logo="" group-title="Ecuador (TV)",CNT Sport EC
+http://gangatvbox.com:25461/live/g2140/123/12649.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports Plus EC" tvg-logo="" group-title="Ecuador (TV)",DirectTV Sports Plus EC
+http://gangatvbox.com:25461/live/g2140/123/12650.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavista EC" tvg-logo="" group-title="Ecuador (TV)",Ecuavista EC
+http://gangatvbox.com:25461/live/g2140/123/12651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gamatv Ec" tvg-logo="" group-title="Ecuador (TV)",Gamatv Ec
+http://gangatvbox.com:25461/live/g2140/123/12652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV Ec" tvg-logo="" group-title="Ecuador (TV)",Gol TV Ec
+http://gangatvbox.com:25461/live/g2140/123/12653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oromar Ec" tvg-logo="" group-title="Ecuador (TV)",Oromar Ec
+http://gangatvbox.com:25461/live/g2140/123/12655.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS EC" tvg-logo="" group-title="Ecuador (TV)",RTS EC
+http://gangatvbox.com:25461/live/g2140/123/12654.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNO EC" tvg-logo="" group-title="Ecuador (TV)",UNO EC
+http://gangatvbox.com:25461/live/g2140/123/12648.ts
+#EXTINF:-1 tvg-id="" tvg-name="America TV   PE" tvg-logo="" group-title="Peru (TV)",America TV   PE
+http://gangatvbox.com:25461/live/g2140/123/12656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antares tv PE" tvg-logo="" group-title="Peru (TV)",Antares tv PE
+http://gangatvbox.com:25461/live/g2140/123/12665.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV PE" tvg-logo="" group-title="Peru (TV)",ATV PE
+http://gangatvbox.com:25461/live/g2140/123/12664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal N   PE" tvg-logo="" group-title="Peru (TV)",Canal N   PE
+http://gangatvbox.com:25461/live/g2140/123/12657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Tv Peru" tvg-logo="" group-title="Peru (TV)",Gol Tv Peru
+http://gangatvbox.com:25461/live/g2140/123/12658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latina PE" tvg-logo="" group-title="Peru (TV)",Latina PE
+http://gangatvbox.com:25461/live/g2140/123/12663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana PE" tvg-logo="" group-title="Peru (TV)",Panamericana PE
+http://gangatvbox.com:25461/live/g2140/123/12659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peru Magico  PE" tvg-logo="" group-title="Peru (TV)",Peru Magico  PE
+http://gangatvbox.com:25461/live/g2140/123/12660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Plus Tv   PE" tvg-logo="" group-title="Peru (TV)",Plus Tv   PE
+http://gangatvbox.com:25461/live/g2140/123/12661.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru  PE" tvg-logo="" group-title="Peru (TV)",TV Peru  PE
+http://gangatvbox.com:25461/live/g2140/123/12662.ts
